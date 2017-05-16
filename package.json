@@ -1,0 +1,47 @@
+{
+  "name": "Freshersworld",
+  "version": "1.0.1",
+  "description": "Freshersworld Task",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-material": "^1.1.0-rc.5",
+    "angular-sanitize": "^1.6.4",
+    "angular-ui-router": "^0.3.1",
+    "compression": "^1.6.2",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache-bust": "^1.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-debug": "^3.1.0",
+    "gulp-filter": "^5.0.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-minifier": "^0.2.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-remove-html-comments": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-smushit": "^1.2.0",
+    "gulp-strip-comments": "^2.4.5",
+    "gulp-uglify": "^2.1.2",
+    "http-server": "^0.6.1",
+    "run-sequence": "^1.2.2",
+    "wrench": "^1.5.9"
+  },
+  "main": "start.js",
+  "scripts": {    
+    "start": "node --use_strict start.js"
+  },
+  "author": "Prem Kumar",
+  "license": "ISC"
+}
