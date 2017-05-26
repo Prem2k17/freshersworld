@@ -275,3 +275,54 @@ li {
     border:none !important;
     border-color: transparent;
 }
+
+.uimessage {
+		text-align: center;
+		margin: auto auto;
+	}
+	
+/* Updated Media Query for material designing */
+
+/* Greater than desktop-xlarge */
+@media all and (min-width: 1920px) {
+	.apphome {
+		display:none;
+	}		
+}
+
+/* xlarge - Extra-Large Desktop*/
+@media all and (min-width: 1600px) and (max-width: 1920px) {
+	.apphome {
+		display:none;
+	}		
+}
+
+/* large - Desktop PC*/
+@media all and (min-width: 1280px) and (max-width: 1599px) {
+	.apphome {
+		display:none;
+	}	
+}
+
+/* medium - laptop & tablet(landscape)*/
+@media all and (min-width: 960px) and (max-width: 1279px) {
+	.apphome {
+		display:none;
+	}		
+}
+
+/* small - tablet(portriat) & mobile(landscape)*/
+@media all and (min-width: 600px) and (max-width: 959px) {	
+	.apphome {
+		display:none;
+	}
+}
+
+/* xtra-small - mobile(portriat)*/
+@media all and (max-width: 599px) {
+	.uimessage {
+		display:none;
+	}
+}
+
+
