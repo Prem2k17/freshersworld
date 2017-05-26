@@ -1,6 +1,6 @@
 # Freshersworld
 
-Special thanks to [Freshersworld](https://www.freshersworld.com)
+Special thanks to [Freshersworld](https://www.freshersworld.com) for giving me a chance to design their website screen.
 
 # Demo URL
 
@@ -22,7 +22,7 @@ Feeling happy to show demo on my site - [CLICK HERE FOR DEMO](https://fresherswo
 1. Compressed all plugin css files into single css file. [vendor.min.css](https://github.com/Prem2k17/freshersworld/blob/master/dist/styles/vendor.min.css)
 
 1. Compressed all application js files into single js file. [app.min.js](https://github.com/Prem2k17/freshersworld/blob/master/dist/scripts/app.min.js)
-1. Compressed all plugin js files into single js file. [app.min.js](https://github.com/Prem2k17/freshersworld/blob/master/dist/scripts/vendor.min.js)
+1. Compressed all plugin js files into single js file. [vendor.min.js](https://github.com/Prem2k17/freshersworld/blob/master/dist/scripts/vendor.min.js)
 
 1. Cached all html resource files using MD5 hashcode versioning method. [index.html](https://github.com/Prem2k17/freshersworld/tree/master/dist/index.html)
 
@@ -33,11 +33,13 @@ Feeling happy to show demo on my site - [CLICK HERE FOR DEMO](https://fresherswo
 ## Web Performance - Google Analytics Performance Test Report
 
 This website scores performance test
+
     # 80% on mobile layout and 
+
     # 93% on desktop layouts
     
 # Reference :
-[click here for Google speed test report](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Ffreshersworld-skyhorse.rhcloud.com%2Fhome&tab=mobile)
+[click here to view Google speed test report](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Ffreshersworld-skyhorse.rhcloud.com%2Fhome&tab=mobile)
 
 
 
