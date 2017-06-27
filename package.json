@@ -2,7 +2,6 @@
   "name": "freshersworld",
   "version": "1.0.1",
   "description": "Freshersworld Demo Application",
-  "private": true,
   "dependencies": {
     "angular": "^1.5.7",
     "angular-animate": "^1.5.7",
