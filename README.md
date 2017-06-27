@@ -8,7 +8,9 @@ Feeling happy to show demo on my site - [CLICK HERE FOR DEMO](https://fresherswo
 
 ## Installation Procedure
 
-1. git clone https://github.com/Prem2k17/freshersworld.git  (OR) npm install freshersworld
+1. git clone https://github.com/Prem2k17/freshersworld.git  
+      (OR) 
+   npm install freshersworld
 1. cd freshersworld
 1. npm install
 1. npm install gulp -g
@@ -41,7 +43,6 @@ This website scores performance test
     
 # Reference :
 [click here to view Google speed test report](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Ffreshersworld-skyhorse.rhcloud.com%2Fhome&tab=mobile)
-
 
 
 
