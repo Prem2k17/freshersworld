@@ -38,7 +38,7 @@
     "wrench": "^1.5.9"
   },
   "main": "start.js",
-  "scripts": {    
+  "scripts": {
     "start": "node --use_strict start.js"
   },
   "author": "Prem Kumar",
@@ -50,5 +50,5 @@
   "bugs": {
     "url": "https://github.com/Prem2k17/freshersworld/issues"
   },
-  "homepage": "https://github.com/Prem2k17/freshersworld#readme"  
+  "homepage": "https://github.com/Prem2k17/freshersworld#readme"
 }
