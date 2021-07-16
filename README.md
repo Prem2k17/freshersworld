@@ -1,6 +1,6 @@
 # Freshersworld
 
-Special thanks to [Freshersworld](https://www.freshersworld.com) and [GovernmentJobOnlie](https://www.governmentjobonline.in) for giving me a chance to design their website screen.
+Special thanks to [Freshersworld](https://www.freshersworld.com) and [Government Job Onlie](https://www.governmentjobonline.in) for giving me a chance to design their website screen.
 
 # Demo URL
 
