@@ -1,10 +1,6 @@
 # Freshersworld
 
-Special thanks to [Freshersworld](https://www.freshersworld.com) for giving me a chance to design their website screen.
-
-# Demo URL
-
-Feeling happy to show demo on my site - [CLICK HERE FOR DEMO](https://freshersworld-skyhorse.rhcloud.com)
+Special thanks [Government Job Onlie](https://www.governmentjobonline.in) for giving me a chance to design their website screen.
 
 ## Installation Procedure
 
